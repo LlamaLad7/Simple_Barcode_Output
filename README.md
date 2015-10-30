@@ -8,8 +8,13 @@ Step 3:
 Start your program with:
 require_relative 'Simple_Barcode_Output'
 Step 4: Code (This program will calculate the check digits for you)
+
 UPC A = OutputBarcodeUPC_A(value(in quotes))
+
 EAN 13 = OutputBarcodeEAN_13(value(in quotes))
+
 EAN 8 = OutputBarcodeEAN_8(value(in quotes))
+
 EAN 5 = OutputBarcodeEAN_5(value(in quotes))
+
 EAN 2 = OutputBarcodeEAN_2(value(in quotes))
